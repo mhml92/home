@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/mikkel/Dropbox/surf/games/langejangine/scenes'
+let g:netrw_dirhist_2='/home/mikkel/mto/mtostats/todo_campaign'
+let g:netrw_dirhist_3='/home/mikkel/mto/mtostats/todo_campaign/ajax'
+let g:netrw_dirhist_4='/home/mikkel/Dropbox/surf/games/tcg/logicCircuit'
+let g:netrw_dirhist_5='/home/mikkel/mto/mtostats/includes'
+let g:netrw_dirhist_6='/home/mikkel/mto/mtostats-dev/app'
